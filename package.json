@@ -1,0 +1,19 @@
+{
+  "name": "ab_05",
+  "version": "1.0.0",
+  "main": "hello-world.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "mongodb": "^6.6.2",
+    "redis": "^4.6.14"
+  },
+  "description": ""
+}

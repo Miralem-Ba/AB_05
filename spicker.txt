@@ -1,0 +1,4 @@
+Daten einfügen: Erstellen und führen Sie insert.js aus.
+Daten auslesen: Erstellen und führen Sie find.js aus.
+Daten aktualisieren: Erstellen und führen Sie update.js aus.
+Daten löschen: Erstellen und führen Sie delete.js aus.
